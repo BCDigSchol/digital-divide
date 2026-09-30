@@ -7,11 +7,12 @@ show-title: false
 
 ## Upcoming Readings
 
-
+* 10/7/2026
+  * Wired Magazine Interview with [Timnit Gebru](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru)
 
 ## Past Readings
 
-* 8/26/2026
+* 9/23/2026
   * Hannah, Williams, and Lipstein. [The Luddite Lab](https://labor.dair-institute.org/)
 * 8/12/2026
   * Lora Kelley,, "[The Work of Helping A.I. Destroy Work](https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html?unlocked_article_code%3D1.3FA.Ekoh.ro02z0vqV0v7%26smid%3Durl-share&sa=D&source=calendar&ust=1786373412082115&usg=AOvVaw1MZ7mduHxrDjOQGlCCf5cD)"
